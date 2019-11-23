@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/swapi-test/static/css/main.1a80503a.chunk.css",
+    "main.js": "/swapi-test/static/js/main.0a8d95e4.chunk.js",
+    "main.js.map": "/swapi-test/static/js/main.0a8d95e4.chunk.js.map",
+    "runtime-main.js": "/swapi-test/static/js/runtime-main.8accbae9.js",
+    "runtime-main.js.map": "/swapi-test/static/js/runtime-main.8accbae9.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/swapi-test/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ca5adc2f.chunk.js": "/swapi-test/static/js/2.ca5adc2f.chunk.js",
+    "static/js/2.ca5adc2f.chunk.js.map": "/swapi-test/static/js/2.ca5adc2f.chunk.js.map",
+    "index.html": "/swapi-test/index.html",
+    "precache-manifest.e340476b08b0ac4c93aa9bd4976bea18.js": "/swapi-test/precache-manifest.e340476b08b0ac4c93aa9bd4976bea18.js",
+    "service-worker.js": "/swapi-test/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/swapi-test/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.1a80503a.chunk.css.map": "/swapi-test/static/css/main.1a80503a.chunk.css.map",
+    "static/media/App.css": "/swapi-test/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8accbae9.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ca5adc2f.chunk.js",
+    "static/css/main.1a80503a.chunk.css",
+    "static/js/main.0a8d95e4.chunk.js"
+  ]
+}
